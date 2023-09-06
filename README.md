@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-coder2001&show_icons=true&locale=en&layout=compact" alt="tushar-coder2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-coder2001&show_icons=true&locale=en" alt="tushar-coder2001" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-coder2001&" alt="tushar-coder2001" /></p>
