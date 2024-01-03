@@ -7,7 +7,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/tushar-debbarma-1810b911a/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/106kn3Wd6qN9rDJWq-665dczHsNqR-OwU/view?usp=sharing](https://drive.google.com/file/d/1xs-Eq4emZyWXEHmlToOqssw2BnqEyRQM/view?usp=sharing)
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
