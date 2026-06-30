@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-coder2001&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-coder2001" /> </p>
 
-- 📫 How to reach me **(https://www.linkedin.com/in/tushar-debbarma-1810b911a/)**
+- 📫 How to reach me **https://www.linkedin.com/in/tushar-debbarma-1810b911a/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wwf2XpEUo-reB84ii8xf2xb29DSotw_J/view?usp=sharing](https://drive.google.com/file/d/1Wwf2XpEUo-reB84ii8xf2xb29DSotw_J/view?usp=sharing)
 
